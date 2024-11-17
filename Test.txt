@@ -1,0 +1,2 @@
+
+0.0.0.0 x.com##:matches-path(/status/) [data-testid="cellInnerDiv"]:has([data-testid="icon-verified"]):not(:first-of-type)
